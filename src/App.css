@@ -1,0 +1,25 @@
+.grid{
+    margin:50px;
+}
+.textFieldStyle{
+    border-bottom:1px solid black;
+    padding:10px;
+    margin:30px;
+    text-align: center;
+}
+
+.price{
+    margin-top: 10px;
+}
+
+.btn{
+    margin-top: 20px;
+}
+
+/* .productList{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    flex-direction: column;
+}  */
