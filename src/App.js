@@ -1,7 +1,6 @@
 import { TextField } from '@mui/material';
 import { useState } from 'react';
-import { Button } from '@mui/material';
-import {Box, Container } from '@mui/material';
+import {Box, Container, Button } from '@mui/material';
 import FormDisplay from './components/FormDisplay';
 function App() {
   const [displayDetails,setDisplayDetails] = useState([]);
